@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CCreateJObject</string>
+    <string name="btn">Execute</string>
+    <string name="btn2">Exit</string>
+    <string name="tv">TextView</string>
+</resources>
